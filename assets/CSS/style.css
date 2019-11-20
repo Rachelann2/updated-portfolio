@@ -211,3 +211,11 @@ border-top: 5px solid white;
         }
       }
       
+      
+      
+      @media only screen and (max-width: 768px) {
+       
+        [class*="col-"] {
+          width: 100%;
+        }
+      }
