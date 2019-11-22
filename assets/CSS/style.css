@@ -35,6 +35,9 @@ color: white;
         padding: 9px;
         border-bottom: 2px solid white;
 }
+.modal-body {
+        font-family: 'Courier New', Courier, monospace;
+}
 
 #nav-bar {
     font-family: 'Lobster', cursive;
